@@ -1,0 +1,19 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  background-color: #761d9a;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.titulo {
+  color: #dcd2de;
+  font-size: 30px;
+}
+
+.descricao {
+  color: #f1d9dd;
+  font-size: 28px;
+}
+
