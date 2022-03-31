@@ -1,6 +1,6 @@
 # Desafios Alura 7DaysOfCode em Javascript
 
-Este repositório foi criado para exibir algumas respostas referentes ao desafio da alura "7DaysOfCode" sobre para Lógica de Programação!
+Este repositório foi criado para exibir algumas respostas referentes ao desafio da alura "7DaysOfCode" sobre para Lógica de Programação em Javascript!
 
 ### Desafio 01: igualdade entre valores
 
