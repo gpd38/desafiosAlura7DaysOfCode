@@ -1,4 +1,4 @@
-# Desafios Alura 7DaysOfCode
+# Desafios Alura 7DaysOfCode em Javascript
 
 Este repositório foi criado para exibir algumas respostas referentes ao desafio da alura "7DaysOfCode" sobre para Lógica de Programação!
 
